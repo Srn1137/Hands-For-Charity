@@ -131,3 +131,52 @@
 .footer .credit span {
     color: var(--orange);
 }
+
+/* volunteer styles */
+.volunteer-text {
+    text-align: justify;
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.join-button {
+    font-size: 1.5rem;
+    font-weight: 500;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+/* contact page */
+.review .review-slider {
+    padding-bottom: 2rem;
+}
+
+.review .box {
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+}
+
+.review .box img {
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    object-fit: fill;
+    margin-bottom: 1rem;
+}
+
+.review .box h3 {
+    color: #333;
+    font-size: 2.5rem;
+}
+
+.review .box h3 p {
+    color: #666;
+    font-size: 2.5rem;
+    padding: 4rem 0;
+}
